@@ -24,7 +24,7 @@
 ```javascript
 const Waschin = {
   age: 20,
-  location: "Mexico",
+  location: "Argentina",
   interests: ["Programming", "Game Development", "Technology"],
   currentlyLearning: ["Kotlin", "C#", "Java"],
   contact: "Waschin"
